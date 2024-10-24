@@ -1,5 +1,5 @@
-# leaflet-windarrow
-draw grid wind arrows Layer for Leaflet
+## what's leaflet-windarrow
+`leaflet-windarrow` is a leaflet plugin for draw grid wind arrows Layer,based on leaflet-velocity's json data.
 
 [China] 基于leaflet-velocity格式数据，绘制风场箭头图层
 
@@ -7,12 +7,11 @@ draw grid wind arrows Layer for Leaflet
 ## what's leaflet-velocity
 
 `leaflet-velocity` is here : https://github.com/onaci/leaflet-velocity
+A plugin for Leaflet (v1.0.3, and v0.7.7) to create a canvas visualisation layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
 
 ---
 
-A plugin for Leaflet (v1.0.3, and v0.7.7) to create a canvas visualisation layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
-
-![Screenshot](https://github.com/pysoer/leaflet-windarrow/blob/master/windarrow.png?raw=true)
+![Screenshot](https://github.com/pysoer/leaflet-windarrow/blob/main/windArrow.png?raw=true)
 
 
 ## example
