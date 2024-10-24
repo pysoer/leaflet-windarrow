@@ -1,0 +1,14 @@
+/dist
+/leaflet-windarrow.egg-info
+/build
+*.pyc
+/.vs
+.idea/*
+*.ui
+/.vscode
+/.mypy_cache/*
+*.spec
+docs/build
+.coverage
+htmlcov
+.DS_Store
